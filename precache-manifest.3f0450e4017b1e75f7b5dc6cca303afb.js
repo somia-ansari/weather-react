@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd96a0e46e4e1169ce4869eb0d88c2bc",
+    "revision": "5caa81b1008649fccfcaba05f5af4189",
     "url": "/gmail-clone/index.html"
   },
   {
-    "revision": "e6d18313df81518b63f7",
-    "url": "/gmail-clone/static/css/main.d26a4c67.chunk.css"
+    "revision": "5f80cb3032eb6f38c7e3",
+    "url": "/gmail-clone/static/css/main.b490e9cb.chunk.css"
   },
   {
     "revision": "b46be36c98d45e72455d",
     "url": "/gmail-clone/static/js/2.ce09d171.chunk.js"
   },
   {
-    "revision": "e6d18313df81518b63f7",
-    "url": "/gmail-clone/static/js/main.d5f1d1e7.chunk.js"
+    "revision": "5f80cb3032eb6f38c7e3",
+    "url": "/gmail-clone/static/js/main.1c46fc60.chunk.js"
   },
   {
     "revision": "49c68773a6d94eb2d7db",

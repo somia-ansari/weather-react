@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gmail-clone/static/css/main.d26a4c67.chunk.css",
-    "main.js": "/gmail-clone/static/js/main.d5f1d1e7.chunk.js",
-    "main.js.map": "/gmail-clone/static/js/main.d5f1d1e7.chunk.js.map",
+    "main.css": "/gmail-clone/static/css/main.b490e9cb.chunk.css",
+    "main.js": "/gmail-clone/static/js/main.1c46fc60.chunk.js",
+    "main.js.map": "/gmail-clone/static/js/main.1c46fc60.chunk.js.map",
     "runtime-main.js": "/gmail-clone/static/js/runtime-main.07524e11.js",
     "runtime-main.js.map": "/gmail-clone/static/js/runtime-main.07524e11.js.map",
     "static/js/2.ce09d171.chunk.js": "/gmail-clone/static/js/2.ce09d171.chunk.js",
     "static/js/2.ce09d171.chunk.js.map": "/gmail-clone/static/js/2.ce09d171.chunk.js.map",
     "index.html": "/gmail-clone/index.html",
-    "precache-manifest.6f3bbbf052156e5c24a100978fedb60e.js": "/gmail-clone/precache-manifest.6f3bbbf052156e5c24a100978fedb60e.js",
+    "precache-manifest.3f0450e4017b1e75f7b5dc6cca303afb.js": "/gmail-clone/precache-manifest.3f0450e4017b1e75f7b5dc6cca303afb.js",
     "service-worker.js": "/gmail-clone/service-worker.js",
-    "static/css/main.d26a4c67.chunk.css.map": "/gmail-clone/static/css/main.d26a4c67.chunk.css.map"
+    "static/css/main.b490e9cb.chunk.css.map": "/gmail-clone/static/css/main.b490e9cb.chunk.css.map"
   }
 }
