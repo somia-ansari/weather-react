@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weather-react/static/css/main.d26a4c67.chunk.css",
-    "main.js": "/weather-react/static/js/main.05bb436b.chunk.js",
-    "main.js.map": "/weather-react/static/js/main.05bb436b.chunk.js.map",
-    "runtime-main.js": "/weather-react/static/js/runtime-main.7674592e.js",
-    "runtime-main.js.map": "/weather-react/static/js/runtime-main.7674592e.js.map",
-    "static/js/2.ce09d171.chunk.js": "/weather-react/static/js/2.ce09d171.chunk.js",
-    "static/js/2.ce09d171.chunk.js.map": "/weather-react/static/js/2.ce09d171.chunk.js.map",
-    "index.html": "/weather-react/index.html",
-    "precache-manifest.dc2a574dca4e9b2098f9ef7293913f07.js": "/weather-react/precache-manifest.dc2a574dca4e9b2098f9ef7293913f07.js",
-    "service-worker.js": "/weather-react/service-worker.js",
-    "static/css/main.d26a4c67.chunk.css.map": "/weather-react/static/css/main.d26a4c67.chunk.css.map"
+    "main.css": "/gmail-clone/static/css/main.d26a4c67.chunk.css",
+    "main.js": "/gmail-clone/static/js/main.d5f1d1e7.chunk.js",
+    "main.js.map": "/gmail-clone/static/js/main.d5f1d1e7.chunk.js.map",
+    "runtime-main.js": "/gmail-clone/static/js/runtime-main.07524e11.js",
+    "runtime-main.js.map": "/gmail-clone/static/js/runtime-main.07524e11.js.map",
+    "static/js/2.ce09d171.chunk.js": "/gmail-clone/static/js/2.ce09d171.chunk.js",
+    "static/js/2.ce09d171.chunk.js.map": "/gmail-clone/static/js/2.ce09d171.chunk.js.map",
+    "index.html": "/gmail-clone/index.html",
+    "precache-manifest.6f3bbbf052156e5c24a100978fedb60e.js": "/gmail-clone/precache-manifest.6f3bbbf052156e5c24a100978fedb60e.js",
+    "service-worker.js": "/gmail-clone/service-worker.js",
+    "static/css/main.d26a4c67.chunk.css.map": "/gmail-clone/static/css/main.d26a4c67.chunk.css.map"
   }
 }
